@@ -27,7 +27,7 @@ const Contact: React.FC = () => {
               <div className="w-12 h-12 bg-blue-500/10 rounded-full flex items-center justify-center text-2xl">📍</div>
               <div>
                 <h4 className="text-slate-900 dark:text-white font-bold mb-1">Our Office</h4>
-                <p className="text-slate-500 dark:text-slate-400 text-sm">Level 4, Cyber City, Gurgaon, India</p>
+                <p className="text-slate-500 dark:text-slate-400 text-sm"> Laduan Road Dabri,Diwana,Rajasthan India</p>
               </div>
             </div>
             
@@ -35,7 +35,7 @@ const Contact: React.FC = () => {
               <div className="w-12 h-12 bg-green-500/10 rounded-full flex items-center justify-center text-2xl">📞</div>
               <div>
                 <h4 className="text-slate-900 dark:text-white font-bold mb-1">Call Us</h4>
-                <p className="text-slate-500 dark:text-slate-400 text-sm">+91 98765 43210 (Mon-Sat)</p>
+                <p className="text-slate-500 dark:text-slate-400 text-sm">+91 95877 42740 (Mon-Sat)</p>
               </div>
             </div>
 
@@ -43,7 +43,7 @@ const Contact: React.FC = () => {
               <div className="w-12 h-12 bg-purple-500/10 rounded-full flex items-center justify-center text-2xl">📧</div>
               <div>
                 <h4 className="text-slate-900 dark:text-white font-bold mb-1">Email</h4>
-                <p className="text-slate-500 dark:text-slate-400 text-sm">sales@tallypro.in</p>
+                <p className="text-slate-500 dark:text-slate-400 text-sm">info.g.rservies@gmail.com</p>
               </div>
             </div>
           </div>
