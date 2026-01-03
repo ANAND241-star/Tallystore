@@ -46,7 +46,7 @@ const Home: React.FC = () => {
               Explore TDLs
             </Link>
             <a 
-              href="https://wa.me/919587742740" 
+              href="https://wa.me/91 9587742740" 
               className="px-8 py-4 bg-white/50 dark:bg-white/5 hover:bg-white/80 dark:hover:bg-white/10 text-slate-900 dark:text-white border border-slate-200 dark:border-white/10 rounded-xl font-bold text-lg backdrop-blur-sm transition-all hover:-translate-y-1 flex items-center justify-center gap-2"
             >
               <span>Talk to Expert</span>
@@ -274,7 +274,7 @@ const Home: React.FC = () => {
                <Link to="/products" className="px-10 py-4 bg-white text-blue-900 font-bold rounded-xl hover:bg-blue-50 transition-all transform hover:scale-105">
                  Get Started
                </Link>
-               <a href="https://wa.me/919587742740" className="px-10 py-4 bg-transparent border border-white/30 text-white font-bold rounded-xl hover:bg-white/10 transition-all">
+               <a href="https://wa.me/91 95877 42740" className="px-10 py-4 bg-transparent border border-white/30 text-white font-bold rounded-xl hover:bg-white/10 transition-all">
                  WhatsApp Enquiry
                </a>
              </div>
